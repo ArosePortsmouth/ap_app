@@ -2,7 +2,7 @@ function DriverCreateBees(props){
     console.log("bees")
     return(
         <div>
-            bees
+            <p>bees</p>
         </div>
     )
 }
